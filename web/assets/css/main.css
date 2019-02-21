@@ -2521,16 +2521,12 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image.fit {
+		.map {
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
+			height: '800px';
 		}
-
-			.image.fit img {
-				width: 100%;
-			}
-
 /* List */
 
 	ol {
